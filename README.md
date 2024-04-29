@@ -1,5 +1,5 @@
 <!--divisor-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=800080&size=35&center=true&vCenter=true&width=1000&lines=Gabriel+Valle)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=800080&size=35&center=true&vCenter=true&width=1000&lines=Opa+bom??Prazer+Gabriel+Valle👾)](https://git.io/typing-svg)
 
 
 
