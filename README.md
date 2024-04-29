@@ -12,7 +12,7 @@
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31h3e4grb4eyifd76w7lkgoiuxzq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 
 <!-- GithubStats -->
 <div align="center">
@@ -52,3 +52,4 @@
     <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   </div>
   
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31h3e4grb4eyifd76w7lkgoiuxzq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=f7c0c0&interchange=false&bar_color=18df11&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31h3e4grb4eyifd76w7lkgoiuxzq&redirect=true)
