@@ -1,15 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D8BFD8&size=35&center=true&vCenter=true&width=1000&lines=Opa+bom%3F+Prazer+Gabriel+Valle)](https://git.io/typing-svg)
-
-
-
-
-
-
 <!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World!</h1></summary>
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D8BFD8&size=35&center=true&vCenter=true&width=1000&lines=Opa+bom%3F+Prazer,+Gabriel+Valle)](https://git.io/typing-svg)
+
+
+
 
 <!--snake-->
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
