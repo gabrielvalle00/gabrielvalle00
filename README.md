@@ -17,7 +17,7 @@
 <!-- GithubStats -->
 <div align="center">
   <a href="https://github.com/gabrielvalle00">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gabrielvalle00&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gabrielvalle00&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvalle00&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 
@@ -29,7 +29,7 @@
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
 
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31h3e4grb4eyifd76w7lkgoiuxzq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=f7c0c0&interchange=false&bar_color=18df11&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31h3e4grb4eyifd76w7lkgoiuxzq&redirect=true)
 
 
 <!-- Skills: Programming Languages -->
@@ -52,4 +52,4 @@
     <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   </div>
   
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31h3e4grb4eyifd76w7lkgoiuxzq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=f7c0c0&interchange=false&bar_color=18df11&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31h3e4grb4eyifd76w7lkgoiuxzq&redirect=true)
+
