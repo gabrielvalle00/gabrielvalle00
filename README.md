@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/svg/gradient?lines=Opa+bom%3F+Prazer+Gabriel+Valle&color1=800080&color2=FF0000&width=1000&height=100&size=35&center=true&vCenter=true)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D8BFD8&size=35&center=true&vCenter=true&width=1000&lines=Opa+bom%3F+Prazer+Gabriel+Valle)](https://git.io/typing-svg)
+
 
 
 
