@@ -22,8 +22,6 @@
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31h3e4grb4eyifd76w7lkgoiuxzq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=f7c0c0&interchange=false&bar_color=18df11&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31h3e4grb4eyifd76w7lkgoiuxzq&redirect=true)
-
 
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
