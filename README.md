@@ -13,7 +13,7 @@
 
 <!-- GithubStats -->
 <div align="center">
-  <a href="https://github.com/Luizeduard05">
+  <a href="https://github.com/gabrielvalle00">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Luizeduard05&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizeduard05&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
