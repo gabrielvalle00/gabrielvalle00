@@ -5,10 +5,11 @@
 
 
 
+
 <!--snake-->
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
-
+- 💾 estudando atualmete ReactNative, JavaScript, NodeJS, Python e C#.
 
 
 <!-- GithubStats -->
