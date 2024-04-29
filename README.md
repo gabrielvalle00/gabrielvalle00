@@ -14,8 +14,8 @@
 <!-- GithubStats -->
 <div align="center">
   <a href="https://github.com/gabrielvalle00">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gabrielvalle00&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvalle00&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gabrielvalle00&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvalle00&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 
 
