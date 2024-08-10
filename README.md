@@ -38,8 +38,11 @@
 
 <div style="flex-basis: 48%;">
     <h3>Programing Database</h3>
-    <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    <img align="center" alt="SQLite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">    
+    <p >
+     <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=light" />
+  </a>
+</p>
   </div>
 
   
