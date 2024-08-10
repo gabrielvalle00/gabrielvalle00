@@ -54,7 +54,7 @@
 
 <h3>📫 Entre em contato:</h3>
 <a href="https://www.linkedin.com/in/gabriel-valle-159170242/" target="_blank">
-    <img align="center" alt="LinkedIn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
+    <img align="center" alt="LinkedIn" height="30" width="40" src="https://cdn.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
 </a>
 
 
