@@ -30,7 +30,7 @@
     <h3>Programming Languages</h3>
     <p >
      <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,py,react,nodejs,css,html,npm" />
+    <img src="https://skillicons.dev/icons?i=java,js,py,ts,react,nodejs,css,html,npm" />
   </a>
 </p>
  
