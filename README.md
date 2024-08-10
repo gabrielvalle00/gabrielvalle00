@@ -28,7 +28,7 @@
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
-    <p align="center">
+    <p >
      <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,nodejs,css,html,js,npm,py,react,ts&theme=light" />
   </a>
