@@ -7,7 +7,7 @@
 
 🎓 Estudante apaixonado por **React Native**, **JavaScript**, **NodeJS**, **Python** e **Java**.
 
-## 🚀 Estatísticas do GitHub
+<h3>🚀 Estatísticas do GitHub </h3>
 
 <!-- GithubStats -->
 <div align="center">
@@ -48,6 +48,6 @@
     <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   </div>
 
-  📫 **Entre em contato:**
+  <h3>📫 Entre em contato: </h3>
 - [LinkedIn](https://www.linkedin.com/in/gabriel-valle-159170242/)
 
