@@ -38,6 +38,8 @@
     <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img align="center" alt="SQLite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
+   
+    
 
   </div>
   
@@ -46,8 +48,14 @@
     <h3>Tools & Frameworks</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+    <img align="center" alt="Android Studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
+    <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   </div>
 
-  <h3>📫 Entre em contato: </h3>
-- [LinkedIn](https://www.linkedin.com/in/gabriel-valle-159170242/)
+<h3>📫 Entre em contato:</h3>
+<a href="https://www.linkedin.com/in/gabriel-valle-159170242/" target="_blank">
+    <img align="center" alt="LinkedIn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
+</a>
+
 
