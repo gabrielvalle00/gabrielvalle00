@@ -5,8 +5,12 @@
 <!--snake-->
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
-- 💾 estudando atualmete ReactNative, JavaScript, NodeJS, Python e Java.
-  
+🎓 Estudante apaixonado por **React Native**, **JavaScript**, **NodeJS**, **Python** e **Java**.
+
+## 🚀 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical)
+
 <!-- GithubStats -->
 <div align="center">
   <a href="https://github.com/gabrielvalle00">
