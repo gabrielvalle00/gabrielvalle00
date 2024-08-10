@@ -9,8 +9,6 @@
 
 ## 🚀 Estatísticas do GitHub
 
-![GitHub Stats]
-
 <!-- GithubStats -->
 <div align="center">
   <a href="https://github.com/gabrielvalle00">
