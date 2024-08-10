@@ -30,7 +30,7 @@
     <h3>Programming Languages</h3>
     <p >
      <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,nodejs,css,html,js,npm,py,react,ts&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,nodejs,css,html,js,npm,py,react" />
   </a>
 </p>
  
@@ -40,7 +40,7 @@
     <h3>Programing Database</h3>
     <p >
      <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=light" />
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
   </a>
 </p>
   </div>
@@ -51,7 +51,7 @@
     <h3>Tools & Frameworks</h3>
     <p >
      <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,bootstrap,androidstudio&theme=light" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,bootstrap,androidstudio" />
   </a>
 </p>
   </div>
