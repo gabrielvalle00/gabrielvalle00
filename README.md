@@ -51,7 +51,7 @@
     <h3>Tools & Frameworks</h3>
     <p >
      <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,bootstrap,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=vscode,intellij,git,github,figma,bootstrap,androidstudio" />
   </a>
 </p>
   </div>
