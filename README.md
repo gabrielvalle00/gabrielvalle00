@@ -40,7 +40,7 @@
     <h3>Programing Database</h3>
     <p >
      <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" />
   </a>
 </p>
   </div>
